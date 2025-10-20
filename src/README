@@ -1,0 +1,17 @@
+# 📘 DocumentationPractice
+
+## 📝 Deskripsi Proyek
+**DocumentationPractice** adalah proyek latihan dokumentasi yang dibuat untuk mempraktikkan cara membuat dokumentasi program secara baik dan benar dalam pengembangan perangkat lunak.
+Proyek ini berisi contoh kode sederhana serta panduan penggunaan agar pengguna dapat memahami struktur dan fungsi dari setiap bagian program.
+
+## 💡 Tujuan Proyek
+- Melatih kemampuan dalam menulis dokumentasi proyek.
+- Memberikan contoh README yang informatif dan mudah dipahami.
+- Menunjukkan pentingnya dokumentasi dalam pengembangan perangkat lunak.
+
+## ⚙️ Teknologi yang Digunakan
+- **Bahasa Pemrograman:** Java
+- **Lingkungan Pengembangan:** IntelliJ IDEA / VS Code
+- **Versi JDK:** 17 atau lebih baru
+
+## 📂 Struktur Folder
